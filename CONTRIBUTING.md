@@ -1,25 +1,25 @@
-Guide de Contribution
+Contribution Guide
 
-Merci de votre intérêt pour contribuer à ce projet !
+Thank you for your interest in contributing to this project!
 
-Comment contribuer
+How to contribute
 
-Signaler des bugs
+Report bugs
 
-Proposer des améliorations
+Suggest improvements
 
-Améliorer la documentation
+Improve the documentation
 
-Soumettre des pull requests
+Submit pull requests
 
-Processus
+Process
 
-Forkez ce dépôt
+Fork this repository
 
-Créez une branche
+Create a branch
 
-Faites vos modifications
+Make your changes
 
-Soumettez une pull request
+Submit a pull request
 
-Merci pour votre contribution !
+Thank you for your contribution!
