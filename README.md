@@ -5,7 +5,7 @@ Ce dépôt contient un script Bash permettant de calculer l’intérêt simple b
 	-	Durée (années)
 
 #Formule utilisée
-
+ 
 Intérêt simple = (P × R × T) / 100
 
 # Objectif du projet
