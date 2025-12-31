@@ -4,7 +4,7 @@ Ce dépôt contient un script Bash permettant de calculer l’intérêt simple b
 	-	Taux d’intérêt (%)
 	-	Durée (années)
 
-#Formule utilisée
+#Formule utilisée.
 
 Intérêt simple = (P × R × T) / 100
 
